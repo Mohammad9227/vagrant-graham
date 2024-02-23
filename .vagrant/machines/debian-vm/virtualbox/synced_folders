@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/mohammed-pc/Library/Mobile Documents/com~apple~CloudDocs/Personal_Gitlab_Repo/vagrant-graham","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
